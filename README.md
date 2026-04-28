@@ -67,5 +67,5 @@ For this workshop you need the following:
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
-MKM test modify with [ skip ci ]
+MKM test modify with [ skip ci ] modify again with [skip ci]
 
