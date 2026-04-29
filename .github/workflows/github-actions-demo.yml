@@ -27,3 +27,4 @@ jobs:
         run: |
           echo "The repository ${{ github.repository }} contains the following files:"
           tree
+      - uses: MrKeithM/hello-world-docker-actionMKM@v1
